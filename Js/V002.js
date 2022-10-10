@@ -1,3 +1,3 @@
 
 
-//Pendiente para próxima clase
+//Pendiente insertar código para próxima clase 
